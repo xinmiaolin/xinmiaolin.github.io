@@ -1,0 +1,6 @@
+@InProceedings{LinCVPR2023,
+    author = {Lin, Xinmiao and Li, Yikang and Hsiao, Jenhao and Ho, Chiuman and Kong, Yu},
+    title  = {Catch Missing Details: Image Reconstruction with Frequency Augmented Variational Autoencoder},
+    booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year   = {2023}
+}
